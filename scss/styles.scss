@@ -16,6 +16,10 @@
     background-size: cover;
 }
 
+.modal-dialog {
+    max-width: 1040px;
+}
+
 @media(max-width: 1000px) {  // means image will always be centered on screens less than 1000px
     .hero .image-container {
         display: flex;
