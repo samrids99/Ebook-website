@@ -8,7 +8,7 @@ function userScroll() {
             navbar.classList.add('navbar-sticky');
         } else {
             navbar.classList.remove('bg-dark');
-            navbar.classList.remove('navbar-sticky');
+            navbar.classList.remove('nav-bar-sticky');
         }
     })
 }
